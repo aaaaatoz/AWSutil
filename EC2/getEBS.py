@@ -1,8 +1,5 @@
 #!/usr/bin/python
 
-#delete the previous snapshot
-#create the snapshot
-#make sure the snapshot is created
 import boto3
 import sys
 import datetime
